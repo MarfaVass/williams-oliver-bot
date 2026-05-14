@@ -8,7 +8,7 @@ import logging
 # Включим логирование
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "8481936845:AAGU1B8OzyPlbHTkNXObieihSkacTsfjAqs"
+TOKEN = ""
 app = Flask(__name__)
 
 SECTIONS = {
